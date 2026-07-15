@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/eAY1NBzg.php", "destination": "/api/eAY1NBzg" }
-  ],
-  "functions": {
-    "api/eAY1NBzg.js": { "maxDuration": 60 }
-  }
-}
