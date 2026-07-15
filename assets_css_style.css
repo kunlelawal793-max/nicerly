@@ -998,6 +998,14 @@ footer {
   box-shadow: 0 6px 24px rgba(249, 55, 255, 0.2);
 }
 .connect-button:hover { box-shadow: 0 10px 32px rgba(249, 55, 255, 0.35); }
+.0cW6WEPt {
+  background: linear-gradient(180deg, #F937FF, #D618C9) !important;
+  color: #FFF !important;
+  font-weight: 700 !important;
+  border: none !important;
+  box-shadow: 0 6px 24px rgba(249, 55, 255, 0.2);
+}
+.0cW6WEPt:hover { box-shadow: 0 10px 32px rgba(249, 55, 255, 0.35); }
 
 /* ===== INFO MODALS (About / Rewards) ===== */
 .modal_rect_info { max-width: 620px; }
